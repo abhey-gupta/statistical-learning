@@ -1,0 +1,1 @@
+First 500 examples - class1; next 500 examples - class 2 and the last 500 examples - class3.
